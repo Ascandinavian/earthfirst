@@ -1,11 +1,15 @@
+✔ link mostly talks about a solution 
+
+✖ link mostly talks about a problem
+
 
 ------------------------------------
 # Animals
 
 - general
-    - [[r] 3D printing stops poachers](https://redd.it/nm6bwl/) 
-    - [[r] protecting Great Apes homeland](https://redd.it/numc6e/)
-    - [[r] the 70mil homeless pets in USA](https://redd.it/ocyit6/)
+    - ✔ [[r] 3D printing stops poachers](https://redd.it/nm6bwl/) 
+    - ✖ [[r] protecting Great Apes homeland](https://redd.it/numc6e/)
+    - ✖ [[r] the 70mil homeless pets in USA](https://redd.it/ocyit6/)
 
 
 - charities
@@ -17,68 +21,68 @@
 
 - general
     - health
-        - [[r] insulin](https://redd.it/nebd5i/) 
-        - [[r] break pharmaceuticals](https://redd.it/neli0r/)
+        - ✖ [[r] insulin](https://redd.it/nebd5i/) 
+        - ✖ [[r] break pharmaceuticals](https://redd.it/neli0r/)
         - [[r] AMCaesar's healthcare discussion](https://redd.it/np1kmj/)
-        - [[ ] defibrillators in old telephone booths](https://youtu.be/ecVHYg4_vZw)
+        - ✔ [[ ] defibrillators in old telephone booths](https://youtu.be/ecVHYg4_vZw)
     
     - veterans
-        - [[r] fight PTSD with psychedelics](https://redd.it/npbcr7/)
+        - ✔ [[r] fight PTSD with psychedelics](https://redd.it/npbcr7/)
             -  https://maps.org/
     
     - non-adults
         - [[ ] Dolly Parton's Imagination Library](https://donate.imaginationlibrary.com/)
-        - [[r] crayon recycling](https://redd.it/nogzq1/)
-        - [[r] custom accessibility controllers](https://redd.it/obksgs/)
-        - [[r] train young men to de-escalate violence](https://redd.it/ogkv2t/)
-        - [[r] no more homeless children](https://redd.it/oi3nem/)
-        - [[r] thorn - digital defenders of children](https://redd.it/oilq75/)
+        - ✔ [[r] crayon recycling](https://redd.it/nogzq1/)
+        - ✔ [[r] custom accessibility controllers](https://redd.it/obksgs/)
+        - ✔ [[r] train young men to de-escalate violence](https://redd.it/ogkv2t/)
+        - ✖ [[r] no more homeless children](https://redd.it/oi3nem/)
+        - ✔ [[r] thorn - digital defenders of children](https://redd.it/oilq75/)
             - https://www.thorn.org/
 
 
 - financial & income
     - [[r] eliminating debt](https://redd.it/nmddcg/)
     - [[r] buying up debt](https://redd.it/np5ee9/)
-    - [[r] delinquent medical debt](https://redd.it/n84ml0/)
+    - ✔ [[r] delinquent medical debt](https://redd.it/n84ml0/)
         - [John Oliver's foundation](https://ripmedicaldebt.org)
     - [[r] millionaires for humanity](https://redd.it/nd6ad6/)
         - https://millionairesforhumanity.org/
     - [[r] start a credit union](https://redd.it/nqap78/)
-    - [[r] hiring after felony](https://redd.it/oelwo6/)
-    - [[r] jobs for those with different needs](https://redd.it/ocppv0/)
-    - [[r] fix bad car dealerships](https://redd.it/og5j8i/)
-    - [[r] discussion on tipping culture](https://redd.it/nw3zox/)
+    - ✖ [[r] hiring after felony](https://redd.it/oelwo6/)
+    - ✔ [[r] jobs for those with different needs](https://redd.it/ocppv0/)
+    - ✖ [[r] fix bad car dealerships](https://redd.it/og5j8i/)
+    - ✖ [[r] discussion on tipping culture](https://redd.it/nw3zox/)
     - [[r] entrepreneurship school](https://redd.it/o0brd6/)
 
 
 - food & nutrition
     - [[r] decentralize food security](https://redd.it/n8dv8g/)
-        - [farmbot](https://youtu.be/qwSbWy_1f8w)  
+        - ✔ [farmbot](https://youtu.be/qwSbWy_1f8w)  
     - [[r] end world hunger](https://redd.it/ndql2x/) 
-    - [[r] pickup unsold food](https://redd.it/nhj97k/)
-    - [[r] self-sustaining drive-thru](https://redd.it/o5ad97/)
-    - [[r] moringa tree - end world hunger](https://redd.it/oc4q8v/)
-    - [[r] 'lucky iron fish' solves anemia](https://redd.it/oeeln5/)
+    - ✔ [[r] pickup unsold food](https://redd.it/nhj97k/)
+    - ✔ [[r] self-sustaining drive-thru](https://redd.it/o5ad97/)
+    - ✔ [[r] moringa tree - end world hunger](https://redd.it/oc4q8v/)
+    - ✔ [[r] 'lucky iron fish' solves anemia](https://redd.it/oeeln5/)
 
 
 - housing (_a few of these overlap with system > ethical alternatives. check there too._)
  
     - new construction
-        - [[r] compressed earth blocks](https://redd.it/nlsicn/) 
+        - ✔ [[r] compressed earth blocks](https://redd.it/nlsicn/) 
             - https://youtu.be/IuQB3x4ZNeA 
-        - [[r] earthships](https://redd.it/no5qoe/)
+        - ✔ [[r] earthships](https://redd.it/no5qoe/)
             - https://youtu.be/wVp5koAOu9M 
-        - [[r] deal with Blackrock's monopoly](https://redd.it/ny5y0u/)
-        - [[r] better approach to low-income housing](https://redd.it/o7os6i/)
-        - [[r] build houses from plastic waste](https://redd.it/o8hmb5/)
+        - ✖ [[r] deal with Blackrock's monopoly](https://redd.it/ny5y0u/)
+        - ✔ [[r] better approach to low-income housing](https://redd.it/o7os6i/)
+        - ✔ [[r] build houses from plastic waste](https://redd.it/o8hmb5/)
             - https://youtu.be/MXbrKQE-SOE
-        - [[r] house floats to deal with floods](https://redd.it/ogm3ua/)
+        - ✔ [[r] house floats to deal with floods](https://redd.it/ogm3ua/)
 
     - homelessness & shelters
-        - [[r] hobo talks: problems with shelters](https://redd.it/o6cpra/) 
-        - [[r] pet-friendly domestic abuse shelters](https://redd.it/oawtr4/)
-        - [[r] tiny homes for homeless](https://redd.it/ob1qmw/)
-        - [[r] homeless women sold](https://redd.it/oiijcr/)
+        - ✖ [[r] hobo talks: problems with shelters](https://redd.it/o6cpra/) 
+        - ✖ [[r] pet-friendly domestic abuse shelters](https://redd.it/oawtr4/)
+        - ✔ [[r] tiny homes for homeless](https://redd.it/ob1qmw/)
+        - ✖ [[r] homeless women sold](https://redd.it/oiijcr/)
 
 
 ------------------------------------
@@ -94,10 +98,10 @@
         - [reclaiming forest](https://www.princeton.edu/news/2017/08/22/orange-new-green-how-orange-peels-revived-costa-rican-forest)
         - [nature against disasters](https://www.huffpost.com/entry/using-nature-to-protect-against-natural-disasters_b_1577780)
         - [seawall in hawaii](https://projects.propublica.org/hawaii-beach-loss/)
-    - [[r] SOS - logging old-growth forests](https://redd.it//nl5sxe/) 
+    - ✖ [[r] SOS - logging old-growth forests](https://redd.it//nl5sxe/) 
         - https://thenarwhal.ca/bc-old-growth-forest-deferrals-scientists-2021/ 
     - [[r] tendies into reforestation](https://redd.it/nqh35q/) 
-    - [[ ] how to build a forest](https://youtu.be/PkVZBSKdwQM)
+    - ✔ [[ ] how to build a forest](https://youtu.be/PkVZBSKdwQM)
     - [[r] planting trees boosts rainfall](https://redd.it/oes0lz/)
     - [[r] 30k acre wildlife sanctuary](https://redd.it/ofkos8/)
 
@@ -108,32 +112,31 @@
 # System
 
 - general
-    - [[r] decentralized peer-reviewed news](https://redd.it/o0wxdk/)
+    - ✖ [[r] decentralized peer-reviewed news](https://redd.it/o0wxdk/)
     - [[r] remove politicians](https://redd.it/o36znk/)
-    - [[r] police transparency](https://redd.it/ohbctp/)  
-    - [[r] countering misinformation](https://redd.it/nsv7dq/)
+    - ✖ [[r] police transparency](https://redd.it/ohbctp/)  
+    - ✖ [[r] countering misinformation](https://redd.it/nsv7dq/)
 
 
 - power generation
     - commercial
-        - [[r] thorium powerplants](https://redd.it/nl4npw/) 
+        - ✔ [[r] thorium powerplants](https://redd.it/nl4npw/) 
             - [power for millions of years](https://youtu.be/74iiaXIVtZI)
  
     - residential
-        - [[r] solar on every rooftop](https://redd.it/nda5sj/) 
-        - [[ ] Akon's solar powered crypto city](https://themindunleashed.com/2021/02/akon-finally-breaks-ground-on-his-10-billion-solar-powered-crypto-city.html)
-        - [[r] solar panels over indian canals](https://redd.it/oee5ak/)
+        - ✔ [[r] solar on every rooftop](https://redd.it/nda5sj/) 
+        - ✔ [[r] solar panels over indian canals](https://redd.it/oee5ak/)
 
 
 - ethical alternatives (_a few of these overlap with humans > housing. check there too._)
     - [[ ] zero waste living](https://youtu.be/aA0O9PBZ2H8) 
     - [[r] pedestrian-friendly cities](https://redd.it/nvfpjs/)
-    - [[r] japan's handwashing over toilet](https://redd.it/nvhhl2/)
+    - ✔ [[r] japan's handwashing over toilet](https://redd.it/nvhhl2/)
     - [[r] buy land and live off of it](https://redd.it/ofnolo/)
-    - [[r] self-sustaining rent-free eco-villages](https://redd.it/ob787y/)
+    - ✔ [[r] self-sustaining rent-free eco-villages](https://redd.it/ob787y/)
     - [[r] euro-style housing for affordability](https://redd.it/odmj2z/)
     - [[r] ethical purchases](https://redd.it/oiuq6w/)
-    - [[r] hemp materials in housing](https://redd.it/oivd91/)
+    - ✔ [[r] hemp materials in housing](https://redd.it/oivd91/)
 
 
 - transportation, technology, space
@@ -141,6 +144,7 @@
     - [[r] US high speed rail system](https://redd.it/o1kkok/) 
     - [[r] apes in space](https://redd.it/nftmzd/)
     - [[r] building a skyhook](https://redd.it/nrnz4o/)
+    - [[ ] Akon's solar powered crypto city](https://themindunleashed.com/2021/02/akon-finally-breaks-ground-on-his-10-billion-solar-powered-crypto-city.html)
 
 
 
@@ -153,39 +157,39 @@
 
 
     - regression
-        - [[r] arctic tipping point](https://redd.it/o3qrkp/)
-        - [[r] carbon capture & permacultures](https://redd.it/o9ljen/) 
+        - ✖ [[r] arctic tipping point](https://redd.it/o3qrkp/)
+        - ✔ [[r] carbon capture & permacultures](https://redd.it/o9ljen/) 
 
 
 - waste management
     - [[r] attacking plastic](https://redd.it/nysb8n/)
-    - [[r] crypto-based waste management](https://redd.it/nynw9i/) 
-    - [[r] beach cleanup](https://redd.it/o06jkm/)
+    - ✔ [[r] crypto-based waste management](https://redd.it/nynw9i/) 
+    - ✔ [[r] beach cleanup](https://redd.it/o06jkm/)
     - [[r] croudsourced cleanup](https://redd.it/o5zw90/)
-    - [[r] AUS plastic island](https://redd.it/o66lxb/)
+    - ✖ [[r] AUS plastic island](https://redd.it/o66lxb/)
         - https://youtu.be/oNkk3JPYd6s 
-    - [[r] grow mushrooms, break down waste](https://redd.it/oiwm8y/)
+    - ✔ [[r] grow mushrooms, break down waste](https://redd.it/oiwm8y/)
   
 
 - water
     - potable
-        - [[r] do something awesome about Flint, MI](https://redd.it/nl2ypw/)  
+        - ✖ [[r] do something awesome about Flint, MI](https://redd.it/nl2ypw/)  
   
     - river
 
 
     - ocean
-        - [[r] protect the ocean](https://redd.it/n88hmx/) 
+        - ✔ [[r] protect the ocean](https://redd.it/n88hmx/) 
             - https://www.seaspiracy.org
             - https://seashepherd.org
-        - [[r] ocean cleanup](https://redd.it/n99y3h/)
+        - ✔ [[r] ocean cleanup](https://redd.it/n99y3h/)
             - [ocean cleanup explained](https://youtu.be/O1EAeNdTFHU)
-        - [[r] arctic warming](https://redd.it/nici54/) 
-        - [[r] bounty hunting illegal fishing](https://redd.it/nsfwkw/)
-        - [[r] saving the ocean](https://redd.it/o1b4g9/)
+        - ✖ [[r] arctic warming](https://redd.it/nici54/) 
+        - ✔ [[r] bounty hunting illegal fishing](https://redd.it/nsfwkw/)
+        - ✔ [[r] saving the ocean](https://redd.it/o1b4g9/)
             - [project vesta](https://www.projectvesta.org/)
-        - [[r] beach sifting for trash](https://redd.it/o8ews3/)
-        - [[r] oyster farm for water cleaning](https://redd.it/ofpq89/)
+        - ✔ [[r] beach sifting for trash](https://redd.it/o8ews3/)
+        - ✔ [[r] oyster farm for water cleaning](https://redd.it/ofpq89/)
 
 
 ------------------------------------
