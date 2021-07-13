@@ -26,6 +26,7 @@ I believe that many wrinkle together make great brain, as a community our discus
 ---
 
 **For now, nothing is within the folders. Everything is being put together inside the aggregate.md file. just click on it above to open it and look at it.**
+links will replace the page you're looking at, so if you `ctrl` + click on them they will open in a new tab. This way you don't have to keep navigating back and forth
 
 ---
 
