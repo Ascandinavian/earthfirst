@@ -1,36 +1,39 @@
+
+------------------------------------
 # Animals
 
-- animals
+- general
     - [[r] 3D printing stops poachers](https://redd.it/nm6bwl/) 
     - [[r] protecting Great Apes homeland](https://redd.it/numc6e/)
     - [[r] the 70mil homeless pets in USA](https://redd.it/ocyit6/)
-    - charities
-        - https://orangutan.org/ 
+
+
+- charities
+    - https://orangutan.org/ 
 
 
 ------------------------------------
 # Humans
 
-- humans
+- general
     - health
         - [[r] insulin](https://redd.it/nebd5i/) 
         - [[r] break pharmaceuticals](https://redd.it/neli0r/)
         - [[r] AMCaesar's healthcare discussion](https://redd.it/np1kmj/)
-        - [    defibrillators in old telephone booths](https://youtu.be/ecVHYg4_vZw)
+        - [[ ] defibrillators in old telephone booths](https://youtu.be/ecVHYg4_vZw)
     
     - veterans
         - [[r] fight PTSD with psychedelics](https://redd.it/npbcr7/)
             -  https://maps.org/
     
     - non-adults
-        - [    Dolly Parton's Imagination Library](https://donate.imaginationlibrary.com/)
+        - [[ ] Dolly Parton's Imagination Library](https://donate.imaginationlibrary.com/)
         - [[r] crayon recycling](https://redd.it/nogzq1/)
         - [[r] custom accessibility controllers](https://redd.it/obksgs/)
         - [[r] train young men to de-escalate violence](https://redd.it/ogkv2t/)
         - [[r] no more homeless children](https://redd.it/oi3nem/)
         - [[r] thorn - digital defenders of children](https://redd.it/oilq75/)
             - https://www.thorn.org/
-
 
 
 - financial & income
@@ -58,8 +61,9 @@
     - [[r] 'lucky iron fish' solves anemia](https://redd.it/oeeln5/)
 
 
-- housing
-    - new
+- housing (_a few of these overlap with system > ethical alternatives. check there too._)
+ 
+    - new construction
         - [[r] compressed earth blocks](https://redd.it/nlsicn/) 
             - https://youtu.be/IuQB3x4ZNeA 
         - [[r] earthships](https://redd.it/no5qoe/)
@@ -67,7 +71,7 @@
         - [[r] deal with Blackrock's monopoly](https://redd.it/ny5y0u/)
         - [[r] better approach to low-income housing](https://redd.it/o7os6i/)
         - [[r] build houses from plastic waste](https://redd.it/o8hmb5/)
-            - https://www.youtube.com/watch?v=MXbrKQE-SOE
+            - https://youtu.be/MXbrKQE-SOE
         - [[r] house floats to deal with floods](https://redd.it/ogm3ua/)
 
     - homelessness & shelters
@@ -82,18 +86,18 @@
 # Plants
 
 
-- plants
+- general
     - [[r] ideas to help planet](https://redd.it/n3le49/)
         - [soil sustainability](http://www.fao.org/sustainable-development-goals/news/detail-news/en/c/277113/)
         - [phosphorus cycle](https://iopn.library.illinois.edu/pressbooks/research150/chapter/re-forming-a-phosphorus-cycle/)
         - [plastics replacement](https://www.globalcitizen.org/en/content/plastic-alternatives-doing-harm/)
         - [reclaiming forest](https://www.princeton.edu/news/2017/08/22/orange-new-green-how-orange-peels-revived-costa-rican-forest)
-        - [reclaiming forest 2](https://www.huffpost.com/entry/using-nature-to-protect-against-natural-disasters_b_1577780)
+        - [nature against disasters](https://www.huffpost.com/entry/using-nature-to-protect-against-natural-disasters_b_1577780)
         - [seawall in hawaii](https://projects.propublica.org/hawaii-beach-loss/)
     - [[r] SOS - logging old-growth forests](https://redd.it//nl5sxe/) 
         - https://thenarwhal.ca/bc-old-growth-forest-deferrals-scientists-2021/ 
     - [[r] tendies into reforestation](https://redd.it/nqh35q/) 
-    - [    how to build a forest](https://youtu.be/PkVZBSKdwQM)
+    - [[ ] how to build a forest](https://youtu.be/PkVZBSKdwQM)
     - [[r] planting trees boosts rainfall](https://redd.it/oes0lz/)
     - [[r] 30k acre wildlife sanctuary](https://redd.it/ofkos8/)
 
@@ -117,13 +121,12 @@
  
     - residential
         - [[r] solar on every rooftop](https://redd.it/nda5sj/) 
-        - [    Akon's solar powered crypto city](https://themindunleashed.com/2021/02/akon-finally-breaks-ground-on-his-10-billion-solar-powered-crypto-city.html)
+        - [[ ] Akon's solar powered crypto city](https://themindunleashed.com/2021/02/akon-finally-breaks-ground-on-his-10-billion-solar-powered-crypto-city.html)
         - [[r] solar panels over indian canals](https://redd.it/oee5ak/)
 
 
-- ethical alternatives
-    - [    zero waste living](https://youtu.be/aA0O9PBZ2H8) 
-    - [[r] creating an automated town](https://redd.it/nq2xnu/)
+- ethical alternatives (_a few of these overlap with humans > housing. check there too._)
+    - [[ ] zero waste living](https://youtu.be/aA0O9PBZ2H8) 
     - [[r] pedestrian-friendly cities](https://redd.it/nvfpjs/)
     - [[r] japan's handwashing over toilet](https://redd.it/nvhhl2/)
     - [[r] buy land and live off of it](https://redd.it/ofnolo/)
@@ -133,7 +136,8 @@
     - [[r] hemp materials in housing](https://redd.it/oivd91/)
 
 
-- transportation & space
+- transportation, technology, space
+    - [[r] creating an automated town](https://redd.it/nq2xnu/)
     - [[r] US high speed rail system](https://redd.it/o1kkok/) 
     - [[r] apes in space](https://redd.it/nftmzd/)
     - [[r] building a skyhook](https://redd.it/nrnz4o/)
@@ -159,7 +163,7 @@
     - [[r] beach cleanup](https://redd.it/o06jkm/)
     - [[r] croudsourced cleanup](https://redd.it/o5zw90/)
     - [[r] AUS plastic island](https://redd.it/o66lxb/)
-        - https://www.youtube.com/watch?v=oNkk3JPYd6s 
+        - https://youtu.be/oNkk3JPYd6s 
     - [[r] grow mushrooms, break down waste](https://redd.it/oiwm8y/)
   
 
@@ -175,7 +179,7 @@
             - https://www.seaspiracy.org
             - https://seashepherd.org
         - [[r] ocean cleanup](https://redd.it/n99y3h/)
-            - [ocean cleanup explained](https://www.youtube.com/watch?v=O1EAeNdTFHU)
+            - [ocean cleanup explained](https://youtu.be/O1EAeNdTFHU)
         - [[r] arctic warming](https://redd.it/nici54/) 
         - [[r] bounty hunting illegal fishing](https://redd.it/nsfwkw/)
         - [[r] saving the ocean](https://redd.it/o1b4g9/)
@@ -183,6 +187,8 @@
         - [[r] beach sifting for trash](https://redd.it/o8ews3/)
         - [[r] oyster farm for water cleaning](https://redd.it/ofpq89/)
 
+
+------------------------------------
 
 # Meta & Knowledge
 
@@ -220,9 +226,9 @@
     - [[r] rigorous vetting & proper sources](https://redd.it/n8hmpi/)
     - [[r] manage windfall](https://redd.it/n8lydl/)
     - [[r] organization and deployment](https://redd.it/n8t2z5/)
-    - [    stanford's philanthropist resources](https://pacscenter.stanford.edu/philanthropist-resource-directory/)
+    - [[ ] stanford's philanthropist resources](https://pacscenter.stanford.edu/philanthropist-resource-directory/)
     - [[r] goo's failed uno reverse on collapse](https://redd.it/ngjbgl/)
-    - [    The fable of the Dragon-Tyrant](https://youtu.be/cZYNADOHhVY)
+    - [[ ] The fable of the Dragon-Tyrant](https://youtu.be/cZYNADOHhVY)
     - [[r] staying anonymous](https://redd.it/njo1ri/)
     - [[r] finite tendies, right-minded people in charge](https://redd.it/npov7x/)
     - [[r] system for keeping track of problems  & solutions](https://redd.it/ntfd1z/)
@@ -235,5 +241,6 @@
     - [[r] creating your own non-profit](https://redd.it/nmgd46/)
 
 
+---
 
-stopped at https://redd.it/oj5q93, jun13'21
+_stopped at https://redd.it/oj5q93, jun13'21_
