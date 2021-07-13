@@ -25,6 +25,9 @@ I believe that many wrinkle together make great brain, as a community our discus
 
 ---
 
+**For now, nothing is within the folders. Everything is being put together inside the aggregate.md file. just click on it above to open it and look at it.**
+
+---
 
 ## I'm new to git and/or github, help!
 
