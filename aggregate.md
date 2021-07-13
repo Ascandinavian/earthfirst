@@ -1,3 +1,5 @@
+# Animals
+
 - animals
     - [[r] 3D printing stops poachers](https://redd.it/nm6bwl/) 
     - [[r] protecting Great Apes homeland](https://redd.it/numc6e/)
@@ -6,28 +8,8 @@
         - https://orangutan.org/ 
 
 
-- charities
-    - [r] megathreads
-        - ['21 April](https://https://redd.it/mz25jy)
-        - ['21 May](https://https://redd.it/n5clou/)
-    - [[r] creating your own non-profit](https://redd.it/nmgd46/)
-    - [[r] samaritans](https://https://redd.it/myygeq)
-    - [[r] small & local](https://redd.it/n18rhz/)
-    - [[r] look local](https://redd.it/n8knvw/)
-        - [help kids before foster homes](https://isaiah117house.com/)
-    - [[r] shareholder of  planet](https://redd.it/n4hnph/)
-        - https://www.time-planet.com/en/become-shareholder
-    - [[r] tools to search/audit charities](https://redd.it/nbda8d/)
-        - [charitywatch](https://www.charitywatch.org/)
-        - [charity navigator](https://www.charitynavigator.org/)
-        - [give.org](https://give.org/donor-landing-page)
-        - [give well](https://www.givewell.org/)
-    - [[r] food for rural India](https://redd.it/nce3wb/)
-        - https://www.akshayapatra.org/
-    - [[r] don't donate without DD](https://redd.it/ncjct4/)
-    - [[r] back up with evidence](https://redd.it/ndg0se/)
-        - https://giving-evidence.com/ 
-
+------------------------------------
+# Humans
 
 - humans
     - health
@@ -50,36 +32,6 @@
             - https://www.thorn.org/
 
 
-- climate
-    - prevention
-
-
-    - regression
-        - [[r] arctic tipping point](https://redd.it/o3qrkp/)
-        - [[r] carbon capture & permacultures](https://redd.it/o9ljen/) 
-
-
-- waste management
-    - [[r] attacking plastic](https://redd.it/nysb8n/)
-    - [[r] crypto-based waste management](https://redd.it/nynw9i/) 
-    - [[r] beach cleanup](https://redd.it/o06jkm/)
-    - [[r] croudsourced cleanup](https://redd.it/o5zw90/)
-    - [[r] AUS plastic island](https://redd.it/o66lxb/)
-        - https://www.youtube.com/watch?v=oNkk3JPYd6s 
-    - [[r] grow mushrooms, break down waste](https://redd.it/oiwm8y/)
-  
-
-- ethical alternatives
-    - [    zero waste living](https://youtu.be/aA0O9PBZ2H8) 
-    - [[r] creating an automated town](https://redd.it/nq2xnu/)
-    - [[r] pedestrian-friendly cities](https://redd.it/nvfpjs/)
-    - [[r] japan's handwashing over toilet](https://redd.it/nvhhl2/)
-    - [[r] buy land and live off of it](https://redd.it/ofnolo/)
-    - [[r] self-sustaining rent-free eco-villages](https://redd.it/ob787y/)
-    - [[r] euro-style housing for affordability](https://redd.it/odmj2z/)
-    - [[r] ethical purchases](https://redd.it/oiuq6w/)
-    - [[r] hemp materials in housing](https://redd.it/oivd91/)
-
 
 - financial & income
     - [[r] eliminating debt](https://redd.it/nmddcg/)
@@ -92,6 +44,8 @@
     - [[r] hiring after felony](https://redd.it/oelwo6/)
     - [[r] jobs for those with different needs](https://redd.it/ocppv0/)
     - [[r] fix bad car dealerships](https://redd.it/og5j8i/)
+    - [[r] discussion on tipping culture](https://redd.it/nw3zox/)
+    - [[r] entrepreneurship school](https://redd.it/o0brd6/)
 
 
 - food & nutrition
@@ -123,6 +77,11 @@
         - [[r] homeless women sold](https://redd.it/oiijcr/)
 
 
+------------------------------------
+
+# Plants
+
+
 - plants
     - [[r] ideas to help planet](https://redd.it/n3le49/)
         - [soil sustainability](http://www.fao.org/sustainable-development-goals/news/detail-news/en/c/277113/)
@@ -139,6 +98,18 @@
     - [[r] 30k acre wildlife sanctuary](https://redd.it/ofkos8/)
 
 
+
+------------------------------------
+
+# System
+
+- general
+    - [[r] decentralized peer-reviewed news](https://redd.it/o0wxdk/)
+    - [[r] remove politicians](https://redd.it/o36znk/)
+    - [[r] police transparency](https://redd.it/ohbctp/)  
+    - [[r] countering misinformation](https://redd.it/nsv7dq/)
+
+
 - power generation
     - commercial
         - [[r] thorium powerplants](https://redd.it/nl4npw/) 
@@ -149,6 +120,48 @@
         - [    Akon's solar powered crypto city](https://themindunleashed.com/2021/02/akon-finally-breaks-ground-on-his-10-billion-solar-powered-crypto-city.html)
         - [[r] solar panels over indian canals](https://redd.it/oee5ak/)
 
+
+- ethical alternatives
+    - [    zero waste living](https://youtu.be/aA0O9PBZ2H8) 
+    - [[r] creating an automated town](https://redd.it/nq2xnu/)
+    - [[r] pedestrian-friendly cities](https://redd.it/nvfpjs/)
+    - [[r] japan's handwashing over toilet](https://redd.it/nvhhl2/)
+    - [[r] buy land and live off of it](https://redd.it/ofnolo/)
+    - [[r] self-sustaining rent-free eco-villages](https://redd.it/ob787y/)
+    - [[r] euro-style housing for affordability](https://redd.it/odmj2z/)
+    - [[r] ethical purchases](https://redd.it/oiuq6w/)
+    - [[r] hemp materials in housing](https://redd.it/oivd91/)
+
+
+- transportation & space
+    - [[r] US high speed rail system](https://redd.it/o1kkok/) 
+    - [[r] apes in space](https://redd.it/nftmzd/)
+    - [[r] building a skyhook](https://redd.it/nrnz4o/)
+
+
+
+------------------------------------
+
+# Planet
+
+- climate
+    - prevention
+
+
+    - regression
+        - [[r] arctic tipping point](https://redd.it/o3qrkp/)
+        - [[r] carbon capture & permacultures](https://redd.it/o9ljen/) 
+
+
+- waste management
+    - [[r] attacking plastic](https://redd.it/nysb8n/)
+    - [[r] crypto-based waste management](https://redd.it/nynw9i/) 
+    - [[r] beach cleanup](https://redd.it/o06jkm/)
+    - [[r] croudsourced cleanup](https://redd.it/o5zw90/)
+    - [[r] AUS plastic island](https://redd.it/o66lxb/)
+        - https://www.youtube.com/watch?v=oNkk3JPYd6s 
+    - [[r] grow mushrooms, break down waste](https://redd.it/oiwm8y/)
+  
 
 - water
     - potable
@@ -171,21 +184,36 @@
         - [[r] oyster farm for water cleaning](https://redd.it/ofpq89/)
 
 
-- transportation
-    - [[r] US high speed rail system](https://redd.it/o1kkok/) 
+# Meta & Knowledge
+
+- charities
+    - [r] megathreads
+        - ['21 April](https://https://redd.it/mz25jy)
+        - ['21 May](https://https://redd.it/n5clou/)
+    - [[r] samaritans](https://https://redd.it/myygeq)
+    - [[r] UK small & local](https://redd.it/n18rhz/)
+    - [[r] look local](https://redd.it/n8knvw/)
+        - [help kids before foster homes](https://isaiah117house.com/)
+    - [[r] shareholder of  planet](https://redd.it/n4hnph/)
+        - https://www.time-planet.com/en/become-shareholder
+
+    - [[r] food for rural India](https://redd.it/nce3wb/)
+        - https://www.akshayapatra.org/
+    
+    - charity tools
+        - [[r] don't donate without DD](https://redd.it/ncjct4/)
+        - [[r] back up with evidence](https://redd.it/ndg0se/)
+            - https://giving-evidence.com/ 
+        - [[r] tools to search/audit charities](https://redd.it/nbda8d/)
+            - [charitywatch](https://www.charitywatch.org/)
+            - [charity navigator](https://www.charitynavigator.org/)
+            - [give.org](https://give.org/donor-landing-page)
+            - [give well](https://www.givewell.org/)
 
 
-- general 
+- loaded posts 
     - [[r] u/rhettlyrhett's magnum opus](https://redd.it/ndw4cy/)
-    - [[r] apes in space](https://redd.it/nftmzd/)
-    - [[r] building a skyhook](https://redd.it/nrnz4o/)
-    - [[r] countering misinformation](https://redd.it/nsv7dq/)
     - [[r] BOOBs proposal](https://redd.it/nt67sx/)
-    - [[r] discussion on tipping culture](https://redd.it/nw3zox/)
-    - [[r] entrepreneurship school](https://redd.it/o0brd6/)
-    - [[r] decentralized peer-reviewed news](https://redd.it/o0wxdk/)
-    - [[r] remove politicians](https://redd.it/o36znk/)
-    - [[r] police transparency](https://redd.it/ohbctp/)
 
 
  - meta & knowledge
@@ -204,6 +232,7 @@
     - [[r] donating through an alias](https://redd.it/o8edfj/)
     - [[r] blockchain for community governance](https://redd.it/o8tpz0/)
     - [[r] u/melliepoptart's non-profit thread](https://redd.it/oixtvz/)
+    - [[r] creating your own non-profit](https://redd.it/nmgd46/)
 
 
 
