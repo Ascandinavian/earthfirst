@@ -1,6 +1,6 @@
-✔ link mostly talks about a solution 
-
-✖ link mostly talks about a problem
+✔ mostly talks about a solution 
+? needs more research
+✖ mostly talks about a problem
 
 
 ------------------------------------
@@ -77,6 +77,7 @@
         - ✔ [[r] build houses from plastic waste](https://redd.it/o8hmb5/)
             - https://youtu.be/MXbrKQE-SOE
         - ✔ [[r] house floats to deal with floods](https://redd.it/ogm3ua/)
+        -  [[r] affordable housing](https://redd.it/okgf7b/)
 
     - homelessness & shelters
         - ✖ [[r] hobo talks: problems with shelters](https://redd.it/o6cpra/) 
@@ -98,7 +99,7 @@
         - [reclaiming forest](https://www.princeton.edu/news/2017/08/22/orange-new-green-how-orange-peels-revived-costa-rican-forest)
         - [nature against disasters](https://www.huffpost.com/entry/using-nature-to-protect-against-natural-disasters_b_1577780)
         - [seawall in hawaii](https://projects.propublica.org/hawaii-beach-loss/)
-    - ✖ [[r] SOS - logging old-growth forests](https://redd.it//nl5sxe/) 
+    - ✖ [[r] SOS - logging old-growth forests](https://redd.it/nl5sxe/) 
         - https://thenarwhal.ca/bc-old-growth-forest-deferrals-scientists-2021/ 
     - [[r] tendies into reforestation](https://redd.it/nqh35q/) 
     - ✔ [[ ] how to build a forest](https://youtu.be/PkVZBSKdwQM)
@@ -169,13 +170,15 @@
     - ✖ [[r] AUS plastic island](https://redd.it/o66lxb/)
         - https://youtu.be/oNkk3JPYd6s 
     - ✔ [[r] grow mushrooms, break down waste](https://redd.it/oiwm8y/)
+    - [[r] discussion on plastic](https://redd.it/ojx8vv/)
   
 
 - water
     - potable
         - ✖ [[r] do something awesome about Flint, MI](https://redd.it/nl2ypw/)  
   
-    - river
+    - river/lake
+        - ? [[r] cleaning up lakes](https://redd.it/okd5fs/)
 
 
     - ocean
@@ -198,9 +201,9 @@
 
 - charities
     - [r] megathreads
-        - ['21 April](https://https://redd.it/mz25jy)
-        - ['21 May](https://https://redd.it/n5clou/)
-    - [[r] samaritans](https://https://redd.it/myygeq)
+        - ['21 April](https://redd.it/mz25jy)
+        - ['21 May](https://redd.it/n5clou/)
+    - [[r] samaritans](https://redd.it/myygeq)
     - [[r] UK small & local](https://redd.it/n18rhz/)
     - [[r] look local](https://redd.it/n8knvw/)
         - [help kids before foster homes](https://isaiah117house.com/)
