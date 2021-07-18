@@ -10,6 +10,7 @@
     - ✔ [[r] 3D printing stops poachers](https://redd.it/nm6bwl/) 
     - ✖ [[r] protecting Great Apes homeland](https://redd.it/numc6e/)
     - ✖ [[r] the 70mil homeless pets in USA](https://redd.it/ocyit6/)
+    - ✔ [[ ] restoring salmon habitat](https://rco.wa.gov/grant/salmon-recovery/)
 
 
 - charities
