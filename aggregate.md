@@ -29,6 +29,7 @@
     - veterans
         - ✔ [[r] fight PTSD with psychedelics](https://redd.it/npbcr7/)
             -  https://maps.org/
+        - ✔ [[r] schooling + clinic days](https://redd.it/olgsi2/)
     
     - non-adults
         - [[ ] Dolly Parton's Imagination Library](https://donate.imaginationlibrary.com/)
@@ -246,9 +247,10 @@
     - [[r] donating through an alias](https://redd.it/o8edfj/)
     - [[r] blockchain for community governance](https://redd.it/o8tpz0/)
     - [[r] u/melliepoptart's non-profit thread](https://redd.it/oixtvz/)
+    - [[r] u/melliepoptart's non-profit thread pt2](https://redd.it/olgsi2/)
     - [[r] creating your own non-profit](https://redd.it/nmgd46/)
 
 
 ---
 
-_stopped at https://redd.it/oj5q93, jun13'21_
+_stopped at https://redd.it/olgsi2, jun17'21_
