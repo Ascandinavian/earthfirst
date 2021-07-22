@@ -1,6 +1,6 @@
 # what's this?
 
-Welcome to Earth First, an APE project to categorize everything wrong in the world, and pool together the few brain cells we have to come up with the best solutions.
+Welcome to Earth First, a project to categorize everything wrong in the world, and pool together the few brain cells we have to come up with the best solutions.
 
 
 Within this repository you will find many categories. As the repo is fairly new, categories may be moved around, split, or combined, but the general idea still remains: **_find a problem, find a solution_**.
