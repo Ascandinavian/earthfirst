@@ -50,4 +50,5 @@ To break it down to simple steps:
 
 ---
 
-latest update from the subreddit: July 12th, 2021
+latest update from r/apephilantropy: July 12th, 2021
+latest update from r/futurology:
