@@ -3,3 +3,6 @@ https://redd.it/oo4xi7
 
 Better control over vertical and horizontal farming of woody plants
 https://en.m.wikipedia.org/wiki/Espalier
+
+Water charity + solutions
+https://lifewater.org/
