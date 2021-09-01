@@ -86,8 +86,9 @@
         - ✖ [[r] pet-friendly domestic abuse shelters](https://redd.it/oawtr4/)
         - ✔ [[r] tiny homes for homeless](https://redd.it/ob1qmw/)
         - ✖ [[r] homeless women sold](https://redd.it/oiijcr/)
-
-
+     
+    - refugee charities
+        - ✔ [[r] Norwegian refugee council w/ DD](https://www.reddit.com/r/Apephilanthropy/comments/ntnb9s/norwegian_refugee_council_nrc_due_dilligence_on/)
 ------------------------------------
 
 # Plants
