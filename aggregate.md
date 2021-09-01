@@ -11,7 +11,8 @@
     - ✖ [[r] protecting Great Apes homeland](https://redd.it/numc6e/)
     - ✖ [[r] the 70mil homeless pets in USA](https://redd.it/ocyit6/)
     - ✔ [[ ] restoring salmon habitat](https://rco.wa.gov/grant/salmon-recovery/)
-
+    - ✔ [[r] Saving the wild bees, not just honey bees](https://www.reddit.com/r/Apephilanthropy/comments/pfedt3/a_green_belt_initiative_by_apes_for_apes_around/?utm_source=share&utm_medium=web2x&context=3)
+    - ✖ [[r] Helping endangered animals](https://www.reddit.com/r/Apephilanthropy/comments/pczjsh/helping_endangered_animals/)
 
 - charities
     - https://orangutan.org/ 
@@ -206,6 +207,9 @@
     - [r] megathreads
         - ['21 April](https://redd.it/mz25jy)
         - ['21 May](https://redd.it/n5clou/)
+        - ['12 June](https://www.reddit.com/r/Apephilanthropy/comments/ny1mxx/charity_sharing_megathread_suggestions_of_the_week/?utm_source=share&utm_medium=web2x&context=3)
+        - ['14 August](https://www.reddit.com/r/Apephilanthropy/comments/o3azuu/charity_sharing_megathread_suggestions_of_the_week/)
+        - ['21 August](https://www.reddit.com/r/Apephilanthropy/comments/p8njd4/charity_sharing_megathread_suggestions_of_the_week/)
     - [[r] samaritans](https://redd.it/myygeq)
     - [[r] UK small & local](https://redd.it/n18rhz/)
     - [[r] look local](https://redd.it/n8knvw/)
